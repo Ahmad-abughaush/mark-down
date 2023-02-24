@@ -12,7 +12,7 @@ engineering and implement my innovative idea in the area of specialization.
 + strong disiction maker 
 
 ## CONTACT
-github: [My Profile](https://pages.github.com/](https://github.com/Ahmad-abughaush)).
+github: [My Profile](https://github.com/Ahmad-abughaush).
 linkedin [ My Profile](https://www.linkedin.com/in/ahmad-abughaush-243238204/)
 
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
