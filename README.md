@@ -8,8 +8,8 @@ my expertise in the field of electrical
 engineering and implement my innovative idea in the area of specialization.
 
 ## SKILLS 
-++  hard working nature
-++ strong disiction maker 
++  hard working nature
++ strong disiction maker 
 
 ![This is an image]([https://myoctocat.com/assets/images/base-octocat.svg](https://depositphotos.com/34299535/stock-photo-worker-portrait.html))
 
