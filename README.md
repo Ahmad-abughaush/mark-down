@@ -12,7 +12,7 @@ engineering and implement my innovative idea in the area of specialization.
 + strong disiction maker 
 
 ## CONTACT
-this is my page  [My Profile](https://pages.github.com/](https://github.com/Ahmad-abughaush)).
+github:[My Profile](https://pages.github.com/](https://github.com/Ahmad-abughaush)).
 
 
 
