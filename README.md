@@ -11,9 +11,10 @@ engineering and implement my innovative idea in the area of specialization.
 +  hard working nature
 + strong disiction maker 
 
-![This is an image]([https://myoctocat.com/assets/images/base-octocat.svg](https://depositphotos.com/34299535/stock-photo-worker-portrait.html))
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg](https://depositphotos.com/34299535/stock-photo-worker-portrait.html))
 
-this is my page  [[My Profile](https://pages.github.com/](https://github.com/Ahmad-abughaush)).
+this is my page  [My Profile](https://pages.github.com/](https://github.com/Ahmad-abughaush)).
+
 
 
 
