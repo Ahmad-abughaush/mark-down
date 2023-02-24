@@ -12,6 +12,6 @@ engineering and implement my innovative idea in the area of specialization.
 ++ strong disiction maker 
 
 
-![This is an image]([https://myoctocat.com/assets/images/base-octocat.svg](https://www.istockphoto.com/photo/professional-male-automotive-engineer-wearing-hard-hat-walking-using-laptop-gm1352825038-428118865?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fengineer&utm_term=engineer%3A%3A%3A))
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg](https://www.istockphoto.com/photo/professional-male-automotive-engineer-wearing-hard-hat-walking-using-laptop-gm1352825038-428118865?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fengineer&utm_term=engineer%3A%3A%3A))
 
 
