@@ -3,7 +3,7 @@ it`s a website provides students  with the  basic introductions and   details by
 
 ##   what are the tools you used to create it? 
 1. figma
-2. google image
+2. google imag e
 
 
 
